@@ -5,7 +5,7 @@ This project demonstrates the simulation of Tic Tac Toe game between Server and 
 For frontend **Kivy** framework was used.
 
 
-## Steps for installation 
+## Steps for installation: 
 
 1. Install requirements from requirements.txt to your virtual environment
 2. Run boardServer.py
