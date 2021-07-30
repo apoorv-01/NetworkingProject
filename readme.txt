@@ -4,7 +4,3 @@
 
 
 
-By - Apoorv Aditya CSE - C (18207) and Venkata Satya Sai Karri CSE - C (18266)
-
-
-
